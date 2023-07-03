@@ -1,1 +1,1 @@
-# rmmit.gitbub.io
+# rmmit.github.io
